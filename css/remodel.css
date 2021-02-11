@@ -50,6 +50,10 @@ header {
   justify-content: space-between;
 
 }
+.jc-sa {
+  justify-content: space-around;
+
+}
 
 .logo {
   /* width: 10%; */
@@ -87,4 +91,24 @@ header {
 .pic {
   background-image: url(../images/20200817_101637.jpg);
   
+}
+
+.pt {
+  padding-top: 4rem;
+}
+
+.text-yellow {
+  color: #f5cb5c;
+}
+
+.border-l {
+  border-left: #f5cb5c solid 2px;
+}
+.border-r {
+  border-right: #f5cb5c solid 2px;
+}
+
+.main-col {
+  width: 33%;
+  text-align: center;
 }
